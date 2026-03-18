@@ -1,6 +1,5 @@
 <h3 align="center">Mexican Fullstack developer</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/angelgarza-dev/zaraga.weather)
 - 🌱 I’m currently learning **Python**
 
 
