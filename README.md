@@ -4,7 +4,7 @@
 
 
 ## 🧩 Sites that I worked on:
-[![CHOKOLOCOS](https://custom-icon-badges.demolab.com/badge/chokolocos-chokolocos?style=for-the-badge&logo=chokolocos&logoSize=auto&color=%23EC8AB9)]([https://x.com/angelgarza-dev](https://chokolocos-web.azurewebsites.net/)) 
+[![CHOKOLOCOS](https://custom-icon-badges.demolab.com/badge/chokolocos-chokolocos?style=for-the-badge&logo=chokolocos&logoSize=auto&color=%23EC8AB9)](https://chokolocos-web.azurewebsites.net/)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angelgarza_dev) 
