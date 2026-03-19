@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning **Python**
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angelgarza-dev) 
+## 🧩 Sites that I worked on:
+[![CHOKOLOCOS](https://custom-icon-badges.demolab.com/badge/chokolocos-chokolocos?style=for-the-badge&logo=chokolocos&logoSize=auto&color=%23EC8AB9)]([https://x.com/angelgarza-dev](https://chokolocos-web.azurewebsites.net/)) 
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angelgarza_dev) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=angelgarza-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=angelgarza-dev&theme=dark&hide_border=false)<br/>
