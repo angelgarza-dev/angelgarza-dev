@@ -8,7 +8,10 @@
 - [![Nuget](https://img.shields.io/badge/zaraga.plugins.NativeLocation-blue?style=for-the-badge&logo=nuget&logoSize=auto)](https://www.nuget.org/packages/zaraga.plugins.NativeLocation)
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angelgarza_dev) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/angel-garza-0227a33b3/)
+
+[![angel_g_garza](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@angel_g_garza)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelgarza-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
