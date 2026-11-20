@@ -1,6 +1,8 @@
 <h1 align="center"> 🌮Mexican Fullstack developer🌮 </h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning
+  - **Python**
+  - **Agentic Develop**
 
 ## 🧩 Proyects that I worked on:
 - [![CHOKOLOCOS](https://custom-icon-badges.demolab.com/badge/chokolocos-chokolocos?style=for-the-badge&logo=chokolocos&logoSize=auto&color=%23EC8AB9)](https://chokolocos-web.azurewebsites.net/)
